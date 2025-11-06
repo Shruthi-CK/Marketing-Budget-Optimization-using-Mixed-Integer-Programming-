@@ -1,4 +1,4 @@
-# Marketing-Budget-Optimization-using-Mixed-Integer-Programming-
+# Marketing-Budget-Optimization-using-Mixed-Integer-Programming
 
 This project details the process of optimizing a marketing budget, starting with an initial budget of $10 million to be allocated across 10 different platforms (Print, TV, social media, etc.) to maximize the total Return on Investment (ROI).
 
